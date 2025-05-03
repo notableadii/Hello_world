@@ -47,6 +47,7 @@
     /* display: flex; */
     text-align: center;
     margin-top: 2em;
+    margin-left: 0em;
   }
 }
 
@@ -59,7 +60,7 @@
     --button-primary-hover: #383838;
     --button-secondary-hover: #f2f2f2;
 
-    display: grid;
+    display: none;
     /* grid-template-rows: 20px 1fr 20px; */
     /* align-items: center; */
     /* justify-items: center; */
@@ -68,8 +69,9 @@
     /* text-decoration-style: dotted; */
     font-family: var(--font-geist-sans);
     font-size: 1.2em;
-    display: flex;
+    display: grid;
     text-align: center;
+    margin-left: 0em;
     margin-top: 2em;
   }
 }

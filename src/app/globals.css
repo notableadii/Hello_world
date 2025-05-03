@@ -3,16 +3,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Playwrite+RO&display=swap");
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #ffff;
+  --foreground: #6064df;
 }
-
+/* 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: white;
+    --background: black;
     --foreground: #6064df;
   }
-}
+} */
 
 .playwrite-ro {
   font-family: "Playwrite RO", cursive;
